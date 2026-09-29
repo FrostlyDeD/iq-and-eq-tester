@@ -91,4 +91,4 @@ Break the EQ score into parts like empathy and self-control
 Add a simple GUI
 Author
 
-[Jaivardhan singh kaurav] [Course / College]
+[Jaivardhan singh kaurav] [CSE-1021/ Vit Bhopal]
